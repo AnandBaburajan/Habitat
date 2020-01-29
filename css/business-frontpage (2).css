@@ -1,0 +1,97 @@
+/*!
+ * Start Bootstrap - Busines Frontpage (https://startbootstrap.com/template-overviews/business-frontpage)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+  font-family: 'Lato', sans-serif;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+  color: #ebebeb;
+}
+
+.btn-dark {
+    color: #fff;
+    background-color: #FF5000;
+    border-color: #FF5000;
+}
+.btn-dark:hover {
+    color: #fff;
+    background-color: #ff6b27;
+    border-color: #ff6b27;
+}
+
+.btn-dark-foot {
+    color: #ccc;
+    background-color: #343434;
+    border-color: #343434;
+}
+.btn-dark-foot:hover {
+    color: #ccc;
+    background-color: #171717;
+    border-color: #171717;
+}
+
+.myfoot{
+  font-size:14px;
+}
+
+.fa {
+    color: #6c757d;
+    font-size: 14px;
+    width: 25px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0;
+}
+
+.fa:hover {
+  color: #b4b9be;
+  font-size: 14px;
+  width: 25px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0;
+}
+
+.footico{
+  text-align: right;
+}
+
+@media screen and (max-width: 600px) {
+  .footico{
+    text-align: center;
+    margin-top: 8px;
+  }
+  .myfoot{
+    text-align: center;
+  }
+}
+
+.display-4 {
+    font-size: 3.5rem;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+@media (min-width: 992px)
+{
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+    padding-left: 0.5rem;
+}
+}
+
+.lead{
+  color:#3D3D3D;
+}
+
+.btn{
+  border-radius: 3px;
+}
+
+.jumbotron {
+    margin-bottom: 0rem;
+  }

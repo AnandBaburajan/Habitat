@@ -1,2 +1,2 @@
 # Habitat
-Entry for the mini-hackathon at GEC Palakkad (2020)
+A web app which helps locate wildfire prone areas and allows people to report wildfires to authorities. Habitat uses NASA’s Water Vapour (1 month -TERRA/MODIS) data to identify dry areas prone to wildfires.
